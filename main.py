@@ -2,7 +2,9 @@
 # coding: utf-8
 
 # In[ ]:
-
+'''
+I am not using any proxy or user-agent here, as many statistics websites don't block any ip & I am only accesing website with less than 1 attempts/second
+'''
 
 # import libraries
 import requests

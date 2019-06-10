@@ -1,5 +1,5 @@
 # ODI_players_data_scrapper
-Scraps every ODI player's score, who has played any match in the history and shows year-wise and cummalative scores them.
+Scraps every ODI player's score, **who has ever played any match in the ODI-history** and shows year-wise and cummalative scores them.
 
 #Steps:
 
